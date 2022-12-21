@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "name": "aaa",
+      "type": "aaa",
+      "description": "aaaa",
+      "img": "aa",
+      "id": 1
+    },
+    {
+      "name": "",
+      "type": "",
+      "description": "",
+      "img": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "type": "",
+      "description": "",
+      "img": "",
+      "id": 3
+    },
+    {
+      "name": "",
+      "type": "",
+      "description": "",
+      "img": "",
+      "id": 4
+    }
+  ]
+}
